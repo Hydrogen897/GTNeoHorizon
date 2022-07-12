@@ -1,9 +1,9 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "gtneohorizon",
+  "name": "GTNeoHorizon",
   "version": "1.0",
-  "author": "Little_Yuan_Wei,lengshan2333",
+  "author": "Little_Yuan_Wei,Hydrogen897",
   "description": "",
   "fileApi": "",
   "url": "",
@@ -16,7 +16,7 @@
     },
     {
       "id": "forge",
-      "version": "14.23.5.2860"
+      "version": "14.23.5.2859"
     }
   ],
   "libraries": [],
