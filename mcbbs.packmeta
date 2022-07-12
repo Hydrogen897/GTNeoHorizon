@@ -1,0 +1,3634 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "gtneohorizon",
+  "version": "1.0",
+  "author": "Little_Yuan_Wei,lengshan2333",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "astralsorcery/gatewayFilter/worldFilter.dat",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/050a38d5b4638bd9f0f9c6c5729d42a8cec62265c25089da82964676f46e3e16.png",
+      "hash": "813563a10d05e487780db5b69c0090680c4ba7a3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/36be6a65f99975905ba1bebd265a19ae13058d50e67cace20e048756341121ee.png",
+      "hash": "c8ab3864aee63a1821768e66571c9ba2ad7c44a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/5165bdae6eb3620ce2cb0bb9d3e163d41a7c7add14e48fcbc95b272e71ef8f57.png",
+      "hash": "82dce79254bb7b7ed94d81b1dcc1a3de4df8ade1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/5a5940ee603905f3e045e2de5eb4c4489fcf3bb09e05b22b9992caa00ace981d.png",
+      "hash": "76b51efbac597345100308b11b029e2164d90422",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/8b00d3351dcd85ada02695da07e0be2a22ebd6e304434624d34702a78ff99c3d.png",
+      "hash": "cfb5caaf65de70a459fcd5625a93a41b45c293e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/93b40afc564405b4208edff2d6cfb0ee421b7bf842f06df7bf866c61034d17c7.png",
+      "hash": "39c70524eefbbbc3c22d3edbb13c957f3b152b03",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/cf31315db503e73e0f883d5b0a7f8ccffcd420c4ea8cf790c75d654a0b8291cb.png",
+      "hash": "fba16f7fbce611424591dfca57b5d22773e96878",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "betweenlands_gallery/gallery_1.0.0/f40961c65d0dcf803466e5d7bc695128e0ee1cd4344c1f13183fddc614073485.png",
+      "hash": "b3b4877dccf165cb13b22765dd7067efaf635849",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "BotaniaVars.dat",
+      "hash": "17ebcef44a9ae2717f37cf688f7caef36e7ee1e2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "caches/mods.bin",
+      "hash": "f34426983b567036816edb2a9d746724a9f83fd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/base/General.cfg",
+      "hash": "30c822a4432e0454292b6dd49206a9889406edf7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/contenttweaker/General.cfg",
+      "hash": "edbd808773797b512141f2b354c7c0ba5d58768c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/material_system.cfg",
+      "hash": "997985a0dc1f16ba8dac5d3e4a435eb8f8c20ea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/saved/material_parts_contenttweaker-original.json",
+      "hash": "9cae681b76182402e6ee1389d1bf21b88c8dad99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/saved/material_parts_contenttweaker.json",
+      "hash": "9cae681b76182402e6ee1389d1bf21b88c8dad99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/saved/saved_sub_blocks_contenttweaker-original.json",
+      "hash": "0d4e45a4b887c3f94eda5eeee0bb927586862eb6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/acronym/saved/saved_sub_blocks_contenttweaker.json",
+      "hash": "0d4e45a4b887c3f94eda5eeee0bb927586862eb6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/actuallyadditions.cfg",
+      "hash": "e5dbb2aa36aa4eb3d10f298fefd73852f7a7b2f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/advancedRocketry.cfg",
+      "hash": "2431baad9527440c78cc511db501f73f81e4de57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/asteroidConfig.xml",
+      "hash": "32cf2468028e4ead2c2f852d4e6b7e380554d2a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/Centrifuge.xml",
+      "hash": "6517cc10b1dbe72128208ffaa6533e3620adb2ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/ChemicalReactor.xml",
+      "hash": "a8ac9fe8fefbe2f7c9dcc7746710af2de051df76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/Crystallizer.xml",
+      "hash": "d17145efdfcebde2e727512da78bbcbb697551e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/CuttingMachine.xml",
+      "hash": "77045f4e8b99426d97a7361c9fc7baa015fa2997",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/ElectricArcFurnace.xml",
+      "hash": "c8660ae84843abcc83750760ee0181bc07673854",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/Electrolyser.xml",
+      "hash": "30e9d32ed2d95b29cc19774e932600482d1d0f4e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/Lathe.xml",
+      "hash": "77ce6fed08ef733b64095511ae06bd3a7982f414",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/oreConfig.xml",
+      "hash": "e5f576dac48a3a0889dd532458b1d5793d953eeb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/PrecisionAssembler.xml",
+      "hash": "3339d1a00d08186dd9c6818adba95f6db1194650",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/PrecisionLaserEtcher.xml",
+      "hash": "6253d5c7bac71a2dd0756f2156e59b490c007de4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/RollingMachine.xml",
+      "hash": "3d50899eba4a6f104db8e596d751b23290f89bef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/advRocketry/SmallPlatePress.xml",
+      "hash": "7033993d9c8986b53a3bac91cac66b83b3313970",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AE2Stuff/readme.txt",
+      "hash": "6ffbef0ca0fc8179088ab6a109f24723fe4c85ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AE2WirelessTerminals.cfg",
+      "hash": "4d8a443c51caf8cfe539122c3711404fc80b395e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/aeadditions.cfg",
+      "hash": "f759db999a803ee03861e9fa8f9d794f8b2908e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/akashictome.cfg",
+      "hash": "d89ba739fa1d342aeeb514125a6ae69b029e2ae8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/appleskin.cfg",
+      "hash": "86715da38df9c9446ef1c97e02d49325fc1f41e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+      "hash": "af0f7fca5a9c5e9cbbc40496ce38524e3d6d1778",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AppliedEnergistics2/CustomRecipes.cfg",
+      "hash": "88bbee1b31f130d899e4660a8ded822f63aca55f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AppliedEnergistics2/Facades.cfg",
+      "hash": "dbf761b122efcd3124e98d3baf9a785a0571d578",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AppliedEnergistics2/items.csv",
+      "hash": "4daf6303443b7719da7e175a53c1718f7bb694ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/AppliedEnergistics2/VersionChecker.cfg",
+      "hash": "7a881bb0b38068ab33d6b1fe4bed738704cd233c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/bitsandpieces/bitsandpieces-config.json",
+      "hash": "6d3ed07752f9e42b018b09691018fe84774bdcd2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/bitsandpieces/bitsandpieces-materials.json",
+      "hash": "4fb3fb374b08af0eb1897c945f25a527ff1d0f8d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/bitsandpieces/bitsandpieces-oreDictEntries.json",
+      "hash": "34ad28c1c5b4628bbc6d3713dc12dc3952938dfe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/conarm/conarm-config.json",
+      "hash": "4e58bffb8ca446455864905f1cdf55f5b06b1f0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/conarm/conarm-materials.json",
+      "hash": "719fad0bc64a2d3228e28756732e93d9e5afb037",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/conarm/conarm-traits.json",
+      "hash": "338f461e2eeb87704affdee7742401b456d6b0e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/custommaterials/custommaterials-alloys.json",
+      "hash": "b34f657989fdf2b971ae7586012ff9fa5cabeb8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/custommaterials/custommaterials-config.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/custommaterials/custommaterials-materials.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/custommaterials/custommaterials-oreDictEntries.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/custommaterials/custommaterials-traits.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion/traits.txt",
+      "hash": "e3b7f5e5c3ecd6e2da9c376a907b51dcf8f1e5cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/armoryexpansion.cfg",
+      "hash": "dc6895a5811c3d8c37135039a6a9461bfadbdb0f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/aevitas_ore_perk.cfg",
+      "hash": "d1695934234536119cb31a607741cc04e2600397",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/amulet_enchantments.cfg",
+      "hash": "a23b4a08c96464ae4f3a217ea7929220404e7c8a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/fluid_rarities.cfg",
+      "hash": "865b044da9e12e93eb7dd2a953bf8d967c5951d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/herdable_animals_blacklist.cfg",
+      "hash": "a6e2b3da9d535c4137226f7b257a08bdd30dd56f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/mineralis_ritual.cfg",
+      "hash": "d1695934234536119cb31a607741cc04e2600397",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/perk_void_trash_replacement.cfg",
+      "hash": "d1695934234536119cb31a607741cc04e2600397",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery/treasure_shrine.cfg",
+      "hash": "d1695934234536119cb31a607741cc04e2600397",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery.cfg",
+      "hash": "f6a0da0c6c724a177b211fe5e3d420be30ab77a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/athenaeum/athenaeum.cfg",
+      "hash": "ad9bdb6248fa3254848fb00665db948ddbc44ea6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/baubles.cfg",
+      "hash": "e07ceaedbcd81186952b55680e9bc992409bb4b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterbuilderswands.cfg",
+      "hash": "ef5edf3851d28923ec61d55e3133d4ba00a92a47",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettercaves-1_12_2.cfg",
+      "hash": "0c68b94fd84ef6bc5f33db0033bef595f348cb62",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/biomeTags.txt",
+      "hash": "1bd90c95050fc1f8805d4e39995633125408eca4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/README.txt",
+      "hash": "26ccfd2234f6a00434fc2947fd50e714fb6db111",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/variants.json",
+      "hash": "2850f0d13f8132d538e7023344a49d8c296bff6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettermineshafts/README.txt",
+      "hash": "e25658dba5adf6bef53f7d91befae270d9ba146e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettermineshafts-1_12_2.cfg",
+      "hash": "8439c8924cefb92d8f8d06cbdb4b584c698262a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterquesting.cfg",
+      "hash": "8525c67b813819b6a5f2d3dd98433802c1872647",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/BetterQuestingTriggerer.cfg",
+      "hash": "ba09ec1679e5c64cd66f6fe9fffa87053f797fb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodarsenal/bloodarsenal.cfg",
+      "hash": "583a846ffc2b0408000d3faabf98a75947f69fb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodmagic/bloodmagic.cfg",
+      "hash": "fab7501dbc303ed8ce01f40feda182f046783530",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodmagic/meteors/diamond.json",
+      "hash": "7a4a7dd509e13c7d1f3f1918202b32d0f62812b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodmagic/meteors/gold.json",
+      "hash": "e4fd4a68b456c85deae945d2088ad8eab2fe7ada",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodmagic/meteors/iron.json",
+      "hash": "a006ff6a0cc8dbe9b157d76968267c9af850378c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodmagic/rituals.cfg",
+      "hash": "97f29c11a2d5ad6113fb866bfe646b6238984ce1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bloodtinker.cfg",
+      "hash": "62983d37d0abc0c660168b07889aa46750494ead",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bonsaitrees/settings.cfg",
+      "hash": "4d254196f119eaa5a4baa9a283cb7329eb0f61dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bookshelf.cfg",
+      "hash": "7b3f348ffb61d007ef14732593e91bb379e367bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botania.cfg",
+      "hash": "37e03943d8111502acf3045d8d88ff353d42f485",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botanianeedsit.cfg",
+      "hash": "d2c22674b03dbb85fc0d494ca6653bbdf8659298",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botaniatweaks.cfg",
+      "hash": "c49ff77603a45f4d3dc17f2f8fe1220bad3b9c23",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/botanicbonsai.cfg",
+      "hash": "ae41c49d764c7ceea6930e2f4c4dc4f745ab50e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bountiful/bounties.json",
+      "hash": "08d0a3cbe4d594b1594d8928e90fe51f820bb587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bountiful/bountiful.cfg",
+      "hash": "7ee6fc11a3bc12c1830e655993352afda59603ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bountiful/rewards.json",
+      "hash": "26c570291a580f88e0361616fb8850ae4ae58e15",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bqtweaker.cfg",
+      "hash": "5b0b0dabb14c1a9e85084c5d19ce4b45cd18006e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bq_rf.cfg",
+      "hash": "0443df912224c15a54007033ae4f0f175987acc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/BrandonsCore.cfg",
+      "hash": "1b87a1248a60fad364fdf270dce7c13b85f950dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/Custom Fusion Recipe Info.txt",
+      "hash": "a87de973794a7d3c8f0ea2b5aae65ceaa5c5f617",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/DraconicEvolution.cfg",
+      "hash": "e8951d1f99c4912bb5fd723bf5ce1a785b935aa0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/ProjectIntelligence/manifest.json",
+      "hash": "a5b3350742b62687ce8f4f5ab065d39293e25541",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/ProjectIntelligence/ModDocs/Draconic Evolution/draconicevolution-en_US.xml",
+      "hash": "adfce1c1ff05c21bf78d1a53b10b4f3717ec03f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/ProjectIntelligence/options.json",
+      "hash": "97ce3de0c55e8519416f96ebf70a8c7d87ca5300",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/brandon3055/ProjectIntelligence/projectintelligence.xml",
+      "hash": "83a6756935210f5cb4244cc19c48c4f49c072c28",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/Building Gadgets.cfg",
+      "hash": "0752c19c6a638410581f6530d6508e4969d7163b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ceramics.cfg",
+      "hash": "220de3a80173be3b26b389a778b2b89fbb9ea53d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/champions/affixes.json",
+      "hash": "a9a9c2f1caad8ee1db57fb4734b80fd04d79778a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/champions/ranks.json",
+      "hash": "ce17f152ea734e2a64f67157f4cdbe70630ac2c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/champions.cfg",
+      "hash": "5d9c8cdf81e5c6190755e1b007381f608cf97885",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chesttransporter.cfg",
+      "hash": "549b06ea4b233bbb5ad7d8c9aabae0ba7d158371",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chisel.cfg",
+      "hash": "b64abaaac326701881d2f901c34c120c5c2e20a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/codechickenlib.cfg",
+      "hash": "0f8d9d5c583e9a8262830117a558cb2728d86c48",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/core/client.cfg",
+      "hash": "41cc04ca9f2ee8ffd2599db4682640f62de262aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/core/common.cfg",
+      "hash": "05f8ceabf662c4d77d1d4028ef68e914d5e7cc92",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/core/friends.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalcultivation/client.cfg",
+      "hash": "aaec6b28a3e37677e7a5c08ae6d52f69c76eeb59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalcultivation/common.cfg",
+      "hash": "73053e4ee673497b1ff2351e8a5cee61ba810ed7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/client.cfg",
+      "hash": "8a76bfbdaef80da33d6d2e9c95ea10a41742e6f4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/common.cfg",
+      "hash": "3323b04b16558390c52cda9f1cdb6fb33987e6e2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/florbs.cfg",
+      "hash": "0e3700763f0fe1582c562dc1f6f3b4ca91ee42ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/morbs.cfg",
+      "hash": "b9b431de43d5c1ee8e6b5b16872aa3f202ae594a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/client.cfg",
+      "hash": "0cd6756e6c0f59f236037adfe275ba3472e54326",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/common.cfg",
+      "hash": "d671e42efccb2c3d32e533645ee812f7112f754c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+      "hash": "7896d572ac3f445529c7530bc7b3400c4c97e386",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalinnovation/client.cfg",
+      "hash": "aaec6b28a3e37677e7a5c08ae6d52f69c76eeb59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/thermalinnovation/common.cfg",
+      "hash": "2615ea69a099c5c8d8e5ae7224e42ac9d65644ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/world/00_minecraft.json",
+      "hash": "a355820c8413fb67f68dfcb9f1ac7a4134b9ed82",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/world/01_thermalfoundation_ores.json",
+      "hash": "35a2815a4587db2d21af3fcddeea20041b74a142",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/world/02_thermalfoundation_oil.json",
+      "hash": "2f66ae55f5a3fcd597bb1bc5f48ba39c9dc8ef23",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/world/03_thermalfoundation_clathrates.json",
+      "hash": "6b3eec87f12fa40b4d4a4897559d13b29ede188c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cofh/world/config.cfg",
+      "hash": "bb808c022b1fd780bfa1be7b1c17769eed1a28df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/comforts.cfg",
+      "hash": "9c9ee84171b45a9034f9fc1204e84b0644b5a892",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/compactmachines3/settings.cfg",
+      "hash": "373e214abb718e6ba5444c67ce3c709759d5a88f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/conarm.cfg",
+      "hash": "cf330ea20ab95c4a887745388187cc8d2276a5ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cookingforblockheads.cfg",
+      "hash": "b52bf1516a9fc06a27ac798fda948d0f4b0c5368",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cosmeticarmorreworked.cfg",
+      "hash": "24417796716734397a3b6149c2dad5d51cd5c29b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks.cfg",
+      "hash": "74bd435fc8ad085142ec2c3544f773518c6f3823",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ctm.cfg",
+      "hash": "fd5b7d65e2a89f34d395beefbea4990e8910827a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/culinaryconstruct.cfg",
+      "hash": "fc0be0ee58ff8ac0476dd28c2ba2602b9bcb0d99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/dcMainMenu/help.txt",
+      "hash": "5a0c494acaa91d9c8080499c1199f69888ef50bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/deepmoblearning.cfg",
+      "hash": "7cd190d9d303f73d0b907c46d86b5820a7fd9be3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/DummyCore.cfg",
+      "hash": "f84c11e98d7b1e7801be6e97f6301a5a287d0cb4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/elevatorid.cfg",
+      "hash": "3e31fcb3e5d5f40e18a5a9ef6008044a3e60d743",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/embers.cfg",
+      "hash": "a74c8b10a2c76431a6e43dd321fa5ee89db4502e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/embertw.cfg",
+      "hash": "dcf4c8813a35518de69686ad5cca157ec1e6cc14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/endercore/cropconfig.json",
+      "hash": "236d4082f3dfa987024f61c6bb1760d8c74109ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/endercore/endercore.cfg",
+      "hash": "580a0162796aa322a886897d4e090fe26bedb33a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderio.cfg",
+      "hash": "edfa48c269ddbf4f86a05fe9920d8767bb32b114",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderioconduits.cfg",
+      "hash": "226c04ff78d1c6f05222cf437ded22ad7f11e7e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderioendergy.cfg",
+      "hash": "72c171dea1e3bbdf67f9dcf8dc67e43f93285a4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderiointegrationforestry.cfg",
+      "hash": "aed0308f4c59b0c483a228f5c27a70c0ecfd6351",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderioinvpanel.cfg",
+      "hash": "53d1d0a813354af12cb82abd41dea441a3874f3e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderiomachines.cfg",
+      "hash": "9cf0b6bfe4393d489264cf40366aabeb63f4621e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/enderiopowertools.cfg",
+      "hash": "dd45ff3e62ddb9a81795cf673c05df79e9feecc0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/gasconduits.cfg",
+      "hash": "219365a777c68c58dfc6a4a7ea968d81ca673fcc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/painter_paint_sources_core.xml",
+      "hash": "948a375e6870e9a2e596bbdc33dbec3535b7764e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/painter_paint_sources_user.xml",
+      "hash": "78c578a1097ba37a4a7c603fd5123efc328d5625",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/aliases.pdf",
+      "hash": "14da170367adb41252b801f900f897e163c4aeb3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/alloying.pdf",
+      "hash": "72081f5418182673cdae7dd3e957e53c31fcddc8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/alloying_modded.pdf",
+      "hash": "01856764a5d9ed4ad9ca1a82979bda57507b50a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/balls.pdf",
+      "hash": "1a537ab354d0a39bb793362639e0153b081d86d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/base.pdf",
+      "hash": "33c3886df25d87fe8d299bf219c8df0773dc3893",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/capacitor.pdf",
+      "hash": "dfce06b19c2f4d6ea988678256a9bde79c27527a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/capacitor_invpanel.pdf",
+      "hash": "c5b3a87893d0b58af3fcd5644f3cb9470be35e60",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/capacitor_machines.pdf",
+      "hash": "ff454c49d91c996e6143cf7ce380a6bc5c60ec7e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/conduits-applied-energistics.pdf",
+      "hash": "27657d3e9140643c99a8b3bcbc88c564c9997a1e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/conduits-gas.pdf",
+      "hash": "d9673b1e06d18f42e7ef1ee85118100431e04ac0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/conduits.pdf",
+      "hash": "85f6b3395661504a2ae790dc2ed592fcc0ae7d29",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/darksteel_upgrades.pdf",
+      "hash": "20f78204e5bea1cbc5035816bf84dc824b3f9f49",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/darksteel_upgrades_machines.pdf",
+      "hash": "52f034f921caebabe2f3f8aceba74310b42c32e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/enchanter.pdf",
+      "hash": "3f335a91c8463d06e0fc44b5e8702236cbcb0f00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/endergy.pdf",
+      "hash": "e03cf431e42f7a52d3c026eb4e556b23cc4728b1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/endergy_balls.pdf",
+      "hash": "6cc2642c22745b63418bba33edc812153c4bda94",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/broken_spawner.xml",
+      "hash": "1a0e4c8539eb13dbd1e4a71138368224ce46e51e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/cheap_machines.xml",
+      "hash": "870e1ae0b91339e5bfacafcd166870f092f08bfb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/cheap_materials.xml",
+      "hash": "d25dd5855bb0b806c1e924270f9feb4d183683d5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/cheaty_spawner.xml",
+      "hash": "abd1f8c2e381c46a7f1c08ad6ac1ac6c1678ad39",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/conduits_easy_recipes.xml",
+      "hash": "4ec1b9499677471d15d51f93ee9ea773da3407b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/conduits_hard_recipes.xml",
+      "hash": "d1f03ef38803f7be4b75ac28421f093f18038965",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/easy_recipes.xml",
+      "hash": "df0923dd7ea60637914ba848fea97bcd30dcf67d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/hard_recipes.xml",
+      "hash": "be71e66c0f19dbc9ce21ff83f72a5a990abacc2a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/infinity.xml",
+      "hash": "8307d878ccc16170afb570edfbd9a12d05e50fb7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/legacy_recipes.xml",
+      "hash": "ba59775c2dbdf1fca8cd14f16cf2bafcb2931d06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/machines_easy_recipes.xml",
+      "hash": "079223f5c35d434404e666902f826fd13acb289b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/optional_tweaks.xml",
+      "hash": "714247a9e97236adba3d3a85fcd9fb31e5ae2d6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/peaceful.xml",
+      "hash": "4a600c5d94a6e32015b9ec5cce381f348e54299e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/powertools_easy_recipes.xml",
+      "hash": "aeb4390fb198ff6a0cbf9104982dbacf294d16f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/recipes.xsd",
+      "hash": "1700301406deb55358afc739490e41baddbb25a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/sagmill_dupe_recipe_patches.xml",
+      "hash": "0faaebbd472babdbb22f14a31e6013185f07c761",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/strict_iron.xml",
+      "hash": "2ec863615c4a6c55c5597684eff10ac9887aff05",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/examples/unhide_base.xml",
+      "hash": "0375aa1641bb1521704a19b01f7e698e88ade7d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/fuels.pdf",
+      "hash": "b54e0d7fcccec83073b318e38f7258c42d708099",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/generated.pdf",
+      "hash": "7e8d6954d49b78d8b7376e49b883432d480551f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/glass.pdf",
+      "hash": "3c95231a937fe56d847204ccdb0da01f2d1a8f1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/hiding_base.pdf",
+      "hash": "a2a05d6d99122a77c9f11266ab55c3014ffc39c4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/hiding_conduits.pdf",
+      "hash": "94c2d593045158ab60d69b2cea2c9d8f90899e29",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/hiding_endergy.pdf",
+      "hash": "fe41ef5642f1fad763ffa1f0bce84d69188b7b72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/hiding_invpanel.pdf",
+      "hash": "77efb0f52e6b4d9b8a25da07de2c2f1c1314963a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/hiding_machines.pdf",
+      "hash": "6b1daab5776fdfd618e8d274fb718ff284f3fac2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/integration_railcraft_recipes.pdf",
+      "hash": "7016684a307a8be6a311968a3d47eab39492766e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/invpanel.pdf",
+      "hash": "5817cc3ad54e4605ed607bf5b39d6dbc25b21f3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/items.pdf",
+      "hash": "f5a1faeb7c1d952256930951f01de40389bb7fa1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/machines.pdf",
+      "hash": "89f6a49a21ecfc57592eb831b6b4e037775b13a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/materials.pdf",
+      "hash": "f5d6bcc78662ee21c07bc361a70e510c911c1ea2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/misc.pdf",
+      "hash": "ec2bfbb0223767bd4fddc27145dcf6c50ef30b56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/powertools.pdf",
+      "hash": "39f1c0fded70e1cad71044fa3fb4cac1252cd51e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill.pdf",
+      "hash": "e73e52f3766b035b93e9a6b130740c42282206a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_metals.pdf",
+      "hash": "d8071f34b1bf3c27b76e3c23ba4d51873742ccaa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_modded.pdf",
+      "hash": "97622eb7a3d4991042d75f9dc3f8ba1752e7a321",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_ores.pdf",
+      "hash": "83f5c7a2684f5efcc399d652a04d14a6a146a09d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_silentgems.pdf",
+      "hash": "1e73cd8f8fcc1d6178ee263685c3598fabe0e8ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_vanilla.pdf",
+      "hash": "39d8e2d8935a615caabe57f11254670b00d35b75",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/sagmill_vanilla2modded.pdf",
+      "hash": "dde15723e67f6b82809fd8647f9ff7c250dcbd16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/soulbinder.pdf",
+      "hash": "3bce9dbf7786473c5f8394ca6ee656bfa2a754ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/spawner.pdf",
+      "hash": "11951906966591d63368a23ab079cfd7f91b3237",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/tank.pdf",
+      "hash": "52c6c9a71806efa18b39e30ba52b578847818bd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/user/recipes.xsd",
+      "hash": "1700301406deb55358afc739490e41baddbb25a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/user/user_recipes.xml",
+      "hash": "50339797309247dc06a3f251ce4dcb900b4eb1d8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderio/recipes/vat.pdf",
+      "hash": "9c876ce68b173c74ca08257c9a66833e7b4a3875",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/enderstorage.cfg",
+      "hash": "1cc966bed4dbb5e1eb8241afb2f9498a1988a768",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/main.cfg",
+      "hash": "70d7a08f2a2855d2b06ca951e56a3ed0c4b93b98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_1.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_2.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_3.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_4.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_5.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/botanic/tier_6.json",
+      "hash": "d12b2a4aa04a74186e238960bcc3fdc88c0a8a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_1.json",
+      "hash": "dcc9bc4a766d55c2cc29d47c6577d234d3f41973",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_2.json",
+      "hash": "e1f1b876d3a0fe19f8033f8d10bc603ea527bc42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_3.json",
+      "hash": "a5e9521c5759fbdd5ef7c3733d6f8fab03fb2bb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_4.json",
+      "hash": "65fc00dd68b521a7c77b2555e394625504e4eb42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_5.json",
+      "hash": "2210b500fc90fe5f46ec54610fc0cd50598d3fa7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/ore/tier_6.json",
+      "hash": "177168058630c140a97de54267926c814cb07340",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_1.json",
+      "hash": "046afa15c71b92edccd49e16b0a2df610f6a3391",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_2.json",
+      "hash": "15d7fb32213299a4daead8b162f1044290e4f4ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_3.json",
+      "hash": "93c13e8e4bb82cbba72fbaa55a336bc918fc9b00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_4.json",
+      "hash": "b61504d41778301b5b30cf8b62b260615f6ecd4a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_5.json",
+      "hash": "6db6324e48bbb288aa35e85b7e7331e38f4af6c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/environmentaltech/multiblocks/void_miner/resource/tier_6.json",
+      "hash": "2be51728a8f8e74df36d3edbaf06a8ca0bf1aa9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/extendedcrafting.cfg",
+      "hash": "13d69b7ca4fe6ce0d6be94f9d228853a9a61fd1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/extrabotany.cfg",
+      "hash": "695131a44beb854acad97953863a3357d1f8d67e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/extrautils2.cfg",
+      "hash": "514b82a648e956de156bb4a5367036ff2f8ccda0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "82b3b78ddc77d91f7b3c8f6219d5dc30cc70e154",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "17448fdc6b8e32382c01b752a2b06d063e9aba96",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "c16e604ae52662778ad19a723f0b70267f7e1e9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "4bfe00401959bab72e52adc40f7e8db656d569ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "7092c585b0bad0e35fe7b99d34557d1027ed3b76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "650af0cdd577246b235523400d11892322c86c44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "732f4d5e5768b895550afe4ad3b6455978d52b00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastleafdecay.cfg",
+      "hash": "c13e9e63a452103171d05098628d485498ef79b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fluiddrawers.cfg",
+      "hash": "ee25b2db24ad082f17aa5caa84146b898b8e2081",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/flux_networks.cfg",
+      "hash": "aaa7659bf68c6fde444707e707f4027d1ca80dcd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/foamfix.cfg",
+      "hash": "8c0807cd779dbc6ca90b8c4f0465a994b5f0652d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "204e9705dc79d04223cef171d3b772d2c4445c78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "a8466b44dbcc9ddbaa19a686e18226b7f904f58a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftblib.cfg",
+      "hash": "dd191372de28bae507fd8dab862a67468d486d85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbultimine.cfg",
+      "hash": "353626f21a5a89a310e23628812e16d25122193b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ftbutilities.cfg",
+      "hash": "3e9a67819a5752e6e1a6fb0bb31d8bb50536ec75",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gamestages.cfg",
+      "hash": "ac259d353fef5cbad855efb2b58a60da3a99068b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gcym.cfg",
+      "hash": "a60562150ff41110a8cec853caf699d4d3ee4a86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/dimensions.json",
+      "hash": "01d070c7a0615104f6691199bfff9f4f7a778b13",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/config/theme.json",
+      "hash": "453ec14c75c6c3a1698ab02d6b875bb646c52273",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/activity_detector.json",
+      "hash": "2f05ffb1d4ba35408275bda0036744fc41283025",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/advanced_activity_detector.json",
+      "hash": "bf5004cebae7dc82d1662deb0a058352c5cbec5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/computer_monitor.json",
+      "hash": "74b414e9b357afc088fdadd47fcdda0d50e6c1dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/conveyor.json",
+      "hash": "c0c9cf67d76e0c1bf551aa5d2f25356e89589fd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/crafting_table.json",
+      "hash": "dfaa68272406285f2fa2145b92b69e49f60cadec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/digital_interface_cover.json",
+      "hash": "c8871165540054bafd328d0bedd463e996b96b00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/ender_fluid_link.json",
+      "hash": "9b8df5d38074f4dd3151c38e105266949ecd553f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/energy_detector.json",
+      "hash": "bec8f6d01c3ac91916c713f0594d588cdf7fbbfd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/fluid_detector.json",
+      "hash": "30376aed04f9e8afe8e974aa6f2a6b795171accb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/fluid_filter.json",
+      "hash": "3f6bf22ea8ad2edb4cda0544f990947833761c04",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/fluid_regulator.json",
+      "hash": "6d29c03fb35fe300e0284f1f1ceccf8c84befb81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/infinite_water.json",
+      "hash": "68430f6cd906da35649edfd10c76a0eedb55137a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/item_detector.json",
+      "hash": "eb17f485d2a1dcc48dac20e0a611a992b485ea4c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/item_filter.json",
+      "hash": "7bde7b89f81fa5456b405968b7d1883529df0f07",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/machine_controller.json",
+      "hash": "32446b737ad11cf5d068d1b5b54578d83269fea1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/ore_dictionary_filter.json",
+      "hash": "8ffa972d4e53ca7c78621bbed7f4ae16879c76de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/pump.json",
+      "hash": "2c850260d775ea752fa5266ca25ec5147fe157ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/robot_arm.json",
+      "hash": "1a7014543d0e77fbbcc0193de8411616ebc9e6b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/shutter_module.json",
+      "hash": "a0b97703d5e0d4c16487b1b7f312bc24f4a09e55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/covers/smart_item_filter.json",
+      "hash": "3776392da7136b28bb817b0458850cef56bced24",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/axe.json",
+      "hash": "2459bb653278636b111701d74731b5db803c0da8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/buzzsaw.json",
+      "hash": "1e6406ecb7fc3d1df0a6b52b2386159eb61e08aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/drill.json",
+      "hash": "a26d56afb920910a3198871703373b8943fbcef1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/file.json",
+      "hash": "c10d8a04fb0e187955a3f7fa0effcaac4910400c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/hammer.json",
+      "hash": "8c3a61dab080be4ad6c2a071c0c22b63e1ecc412",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/mining_hammer.json",
+      "hash": "b5ca5e7afb9d0b5176163c3724865f7dbb13d259",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/saw.json",
+      "hash": "1c6b6154ab462d1e154289ad21e70e0b9f3616ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/screwdriver.json",
+      "hash": "09b4124f9b9c1edbf01345e14d1caf5483eaf0e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/sense.json",
+      "hash": "5e5281034a986c38482fe57c166f096320d18b86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/en_us/tools/wrench.json",
+      "hash": "bfab457430a7b7bfe92d844fe8b931930106538a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/zh_cn/covers/digital_interface_cover.json",
+      "hash": "40ee161177235e4a31ed58884d208db85cabf683",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/items/zh_cn/tools/wrench.json",
+      "hash": "83a3449a0f60df986249b5f85a7434712f1c88cc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/machines/en_us/steam/steam_boiler_coal_bronze.json",
+      "hash": "9ddaffb977af6ecd5280e291c09cf8d1c7ad7697",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/advanced_processing_array.json",
+      "hash": "2e58dddefa6bbfb72a565d8680fab46ef64f7f90",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/assembly_line.json",
+      "hash": "da049ff4acd064384dcb371bed2f2c5b6aca87b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/central_monitor.json",
+      "hash": "3335b6acdf5704e88a97894f319da0f835f04b81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/distillation_tower.json",
+      "hash": "56d71d839730433dc270e981d9cc015001ca7d1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/electric_blast_furnace.json",
+      "hash": "f5409d1a2195a25bbd18738cca79241d538d5c49",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/fusion_reactor_1.json",
+      "hash": "6d08fdac56f0f0b345cc8151c382fefe5312aa56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/fusion_reactor_2.json",
+      "hash": "442b79d2a4f73e16e3e82937f1028b881051f751",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/fusion_reactor_3.json",
+      "hash": "6139d72753f02fea4bc266d529269e95e854921e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/implosion_compressor.json",
+      "hash": "7691fe37eb3eed18ac9e46dea62d818f792f316a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/large_chemical_reactor.json",
+      "hash": "d3c4628dfdff6db3dc5073897afb3e50d67a930d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/large_miner.json",
+      "hash": "8992ac6ce791c705e68aa7de933ee0a5c1397e4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/multi_smelter.json",
+      "hash": "eb16036dcc9c42ac93ecd0ec7e3d4750bf011e1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/oil_cracking_unit.json",
+      "hash": "8f7f2e6f6e721e6916a0122925e602691be38fbf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/processing_array.json",
+      "hash": "ad92fac06b887d74a58ac31c5de512e261e19b03",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/pyrolyse_oven.json",
+      "hash": "7ce29d299ce003756ae95795b7f867505036ec1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/electric/vacuum_freezer.json",
+      "hash": "efde68ac1e6b6972c07b3ec5b7916a18088d4c5f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/extreme_combustion_engine.json",
+      "hash": "03315332965f7263e7389bc803242f55ec8a07de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/large_boiler.json",
+      "hash": "e6d22274a529ea2e6a9e0b76a4a4bf6f60dc30cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/large_combustion_engine.json",
+      "hash": "3e22dee68f94a13e91225ff5809c2e66ea783153",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/large_gas_turbine.json",
+      "hash": "4829d052975f03a55fa38fd2531677efea1a7797",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/large_plasma_turbine.json",
+      "hash": "5d2ca014dd71ea0309ab0ed9594a2f74bab6a733",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/generator/large_steam_turbine.json",
+      "hash": "5a5751b3cc631bfe131a96ca06396d33433a7edf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/coke_oven.json",
+      "hash": "0a69d316c9cfaa3a7df0ff6920b8f1ea49ff7230",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/multiblock_steel_tank.json",
+      "hash": "de0214ba62c6f18db442a797635aa51d23aa03c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/multiblock_wooden_tank.json",
+      "hash": "40b51e37618a2ce6e3342bad14d7d38c3f7c48c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/primitive_blast_furnace.json",
+      "hash": "f27f7ac2dbf40cf9b9d1aeb1488687e72f944129",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/primitive_water_pump.json",
+      "hash": "579c6c062b0a04dcdd07e3f044db5b5628aa90bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/steam_grinder.json",
+      "hash": "1982630ce0a75872bbafd177b07156729277e7d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/en_us/primitive/steam_oven.json",
+      "hash": "440f494019100ba5f9dd99c53a2341a5ce4dfa9f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/multiblocks/zh_cn/electric/central_monitor.json",
+      "hash": "5d526fcc6039bce97a3572b237345131beb82732",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/01_definition.json",
+      "hash": "ad0788e9c590b1f3f98c88653af5b9a41b097825",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/02_element.json",
+      "hash": "3f385e571dc64e75b0c77062eada1d3d281e406f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/03_flag.json",
+      "hash": "883ace9e196bf335bc94771e5943c02b0a6d1e69",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/04_icon_set.json",
+      "hash": "8fb132c26d691ed1e23b90a9bb334bccdc26d5aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/05_create.json",
+      "hash": "49a657325b086e4b42de69237d9b0e14717f2c0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/material/06_modify.json",
+      "hash": "16d3c383effdc38d9decb366be6401711af78b61",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/crafttweaker/terminal/ct_terminal_01.json",
+      "hash": "07ea9d17fcdd422d7b9cc6629e14dcb1a707ed38",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/guide_widget_api/api_0_guidepage.json",
+      "hash": "506671459c5512dc4415187269bd76fef59fb3a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/guide_widget_api/api_1_widget.json",
+      "hash": "7aa3b76c4ab1497f0c921ef7df8887805f62f57e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/guide_widget_api/api_2_textbox.json",
+      "hash": "a2c226e54b6b83a6154b0952f1df6e31b07c2cf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/guide_widget_api/api_3_image.json",
+      "hash": "1205eff57cc61d33c55098701be95a316aa26e18",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/important_concepts/machine_grid.json",
+      "hash": "37c1e72b0cf8ae885fb8c08ddce746c8b06d35db",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/resource_pack/emissive_texture.json",
+      "hash": "69ea3cecd95625eb546b7745b9dd0133932b83cc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/en_us/terminal/terminal_hardware.json",
+      "hash": "8f5dee7f3720aae864e06a6d073e8e7c708020e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/crafttweaker/terminal/ct_terminal_01.json",
+      "hash": "bbcab23fc4499e14153fd14b1dd522a6a2a84bab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/guide_widget_api/api_0_guidepage.json",
+      "hash": "935172d24b9f5191eea42821b6ccf4988c819319",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/guide_widget_api/api_1_widget.json",
+      "hash": "341df3995a074352630df02f202cf12ed79a4310",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/guide_widget_api/api_2_textbox.json",
+      "hash": "ff233b2606853a2fbe2f773a67ec232041c9750b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/guide_widget_api/api_3_image.json",
+      "hash": "1418a8cd14c0292efaa70999e3809693630431f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/resource_pack/emissive_texture.json",
+      "hash": "9989645ea4a04884e4e05dfc7c60b2b42a6d163a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/guide/tutorials/zh_cn/terminal/terminal_hardware.json",
+      "hash": "c642c1b697095da0a0b7b2408a70bc99718a56da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/image/wallpaper_celeryman.png",
+      "hash": "0f87224814f4c17e26fe9f9c534afa65460e9005",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/image/wallpaper_Kumquat.png",
+      "hash": "280bc59de01b576d1d773be48424397c7079ed38",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/image/wallpaper_moth.png",
+      "hash": "cd0d8fecc9addc67dcbde865242f5aa344dec882",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/terminal/image/wallpaper_Zalgo.png",
+      "hash": "503f1c31ce911961daf6d8fd5d04d684b4fe5547",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/nether/lava_deposit.json",
+      "hash": "d3fdf15c12dc6303621fe95daa5afbe8d5538474",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/nether/natural_gas_deposit.json",
+      "hash": "f39261a8e499ed7b01574482c806e7eefd1bab1e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/heavy_oil_deposit.json",
+      "hash": "1aeae5f93cbf36f94e50c3d309328d3c8a9e4fa0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/light_oil_deposit.json",
+      "hash": "aa0dc6921d1c7e9a7c12794e17c051b671331a49",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/natural_gas_deposit.json",
+      "hash": "933db4a16fb4c8efa59fa362beadca45400f3850",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/oil_deposit.json",
+      "hash": "412f683419b5e6300bcb506f3befad5f6d414452",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/raw_oil_deposit.json",
+      "hash": "c621237f4097c3862899bd4feda627df71727a46",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/fluid/overworld/salt_water_deposit.json",
+      "hash": "5024ff516e9f7d5319b2077b7263629485932f8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/bauxite_vein.json",
+      "hash": "847e4993202badf3e4567a93269496dfb3ad5c92",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/magnetite_vein.json",
+      "hash": "47ee4b825fec0b5cd6f1a0aaa6d149f2e1d8dbd7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/naquadah_vein.json",
+      "hash": "f3f84ae13b2906b8131d4b83570a7fb8a9ccbab0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/pitchblende_vein.json",
+      "hash": "39cb78162aa70ec284eb771875fe6fdd6d40f256",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/scheelite_vein.json",
+      "hash": "5b80f33ec133f0decfb107731b0511bf989400dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/end/sheldonite_vein.json",
+      "hash": "b38a1e6b5e8e837e8e12a9c07f499b4253786c82",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/banded_iron_vein.json",
+      "hash": "0095cb2bd2fb07254fca58ac71cfeb42c09d4bb1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/beryllium_vein.json",
+      "hash": "fcdebe31329b9110f372d45eaa89eb7caf337100",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/certus_quartz_vein.json",
+      "hash": "ce9a7a833bf83c7cc8ff54c7f4cc42e8d810bed7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/manganese_vein.json",
+      "hash": "f8f5a28587d50bd6cd465a20c362607157d1ec45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/molybdenum_vein.json",
+      "hash": "53359b8147ed854220fec08c5cf0451de15a23a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/monazite_vein.json",
+      "hash": "df20caaf3f65675823942be7af6bfead4676c1fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/nether_quartz_vein.json",
+      "hash": "fec4de75e52c9868f6c22859482edb42c8ff5ed3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/redstone_vein.json",
+      "hash": "d4b2c27fc6895507238bcc23a849a85925ebe4e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/saltpeter_vein.json",
+      "hash": "6b642bb1d4799b7845d1fecdad1aff42c1ec4c3e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/sulfur_vein.json",
+      "hash": "4c68db53bd50c742d943161bc157e37cadb46826",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/tetrahedrite_vein.json",
+      "hash": "032d01f1f9880c3acba389859ff14ed9c992efa9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/nether/topaz_vein.json",
+      "hash": "2b7fbba58544fd739cb9028febafa44036eefd18",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/apatite_vein.json",
+      "hash": "2c6e9989ed12aefbce0cd427070d55786ae1b1ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/basalt_sphere.json",
+      "hash": "6057dcd37fc97e407e07c3d6b769446b80baa5ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/black_granite_sphere.json",
+      "hash": "b62190be199ea5fe0d3dc30ff35b048f54cf0513",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/cassiterite_vein.json",
+      "hash": "ad0a2ba5d6b36f8d4a1303190059049790ec22ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/coal_vein.json",
+      "hash": "a19374dab9a587ee311b3d22b3c61e3fcce2d258",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/copper_tin_vein.json",
+      "hash": "5a07bb549e1a128a25397ce27cbdc191ce783d9b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/copper_vein.json",
+      "hash": "d0637c2a12171a5a7d67faca32de820c361960c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/diamond_vein.json",
+      "hash": "6faf2f5477dda6fac4a9a7ec4edd12c8529eac72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/galena_vein.json",
+      "hash": "c215c2254842b176f164101f23c1cada32db9680",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/garnet_tin_vein.json",
+      "hash": "cf0c0f7fbd62701133b81ad56df1816e0c3236b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/garnet_vein.json",
+      "hash": "c5254c3dbf0814bdef17624f7b5b052280cf40f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/iron_vein.json",
+      "hash": "e814c40bced0d3c48dfcf4ee3fd17a50a1efa4f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/lapis_vein.json",
+      "hash": "fa6583ada4a95bfd41b36fb06b8206309ca11f1f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/lubricant_vein.json",
+      "hash": "033f1895b98ce875268f15805060a84eb2a88682",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/magnetite_vein.json",
+      "hash": "35c569194af2c797440da4956756cc8d728217fc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/manganese_vein.json",
+      "hash": "e6f61c2ac833ff7842720b0993d11d9e3896952e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/marble_sphere.json",
+      "hash": "528fafef486244d01c76d7f9b9aa37ff88d86202",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/mica_vein.json",
+      "hash": "dff739cadd3b08a2beeb4cc3b5f94ecf12f6f397",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/mineral_sand_vein.json",
+      "hash": "9fb56f2d8e5952b099e22b8b0ee57694d588eb38",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/nickel_vein.json",
+      "hash": "7fc164ab4a3adc4c854a5befae2aa6ecab5502f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/oilsands_vein.json",
+      "hash": "fbd7ac364b41049f1a9f84f7067f4d70675fac00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/olivine_vein.json",
+      "hash": "8315a8900eb0574834a2459802d53cad136ee62c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/raw_oil_sphere.json",
+      "hash": "a858c54b2cfa34dabb8e25816c6893682e90035f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/redstone_vein.json",
+      "hash": "8db477677f03a834b323a89096da79f4a2df5ca2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/red_granite_sphere.json",
+      "hash": "ae9e3923e3602a050775caef73fd03992b05e87d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/salts_vein.json",
+      "hash": "019f8e53295e218ed01aab80a881afa669e7812e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen/vein/overworld/sapphire_vein.json",
+      "hash": "5ffac63a71e2379412a38e4d5d1af7e8450cb06b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech/worldgen_extracted.json",
+      "hash": "f00c9319b5500d50ac0b3f8c7e6fdd6cf26df7d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtech.cfg",
+      "hash": "04583dc97db4c71ac6df965ec3db4e8abb0c5d60",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gregtechfoodoption.cfg",
+      "hash": "eb08f6d0d9321248841223e3476add6e3bbb1c68",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/Guide-API/Guide-API.cfg",
+      "hash": "be4fcb21f47a046505dc6bd18219d22f2d4f256b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hammercore/tile_entity_tick_slip.json",
+      "hash": "73026d66263f351e9a873e4d3abdba7a8a41a2c7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hammercore.cfg",
+      "hash": "754b235807319b063dbb05e07823594a6735d5e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/hardcoreitemstages.cfg",
+      "hash": "ab5f9522fa81dfa2e166664589f0d69e2b7d78a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/harvestcraft.cfg",
+      "hash": "42b45eee08d7d426ca5fb7fd62ac60f7d8159cfb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/harvestcraft_fruittree.cfg",
+      "hash": "7ad5d3ea8ca559138fdb466bbbdb3aa11f699bd3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/immersiveengineering.cfg",
+      "hash": "a4a2e801861e15fbd10f2a68d861a5e72e8a0512",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/improvedbackpacks.cfg",
+      "hash": "2043b4398d39d540eb3a16c12c95da28a18da952",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/industrialforegoing.cfg",
+      "hash": "00dc2b1fc88282a92747b237e8192ca69e447e29",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ironchest.cfg",
+      "hash": "e2044fa4d0c44868017d9b017f1399da3a94be6d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/itemstages.cfg",
+      "hash": "44a5d179216b5a83ca9c048ec8346ade3bbf3a4a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/itemBlacklist.cfg",
+      "hash": "b7d729875a1a71890f0733c3afba4ba0950583e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei.cfg",
+      "hash": "a4ba64fd52cd848018d99764073491c5f35f6d91",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/searchColors.cfg",
+      "hash": "493ef0b6b71936166abb91e909ec4157c227ee9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/worldSettings.cfg",
+      "hash": "e0eaca8870e812ca0b588ae162d91db45dcd654a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeiintegration.cfg",
+      "hash": "61c7e8bc2bcd81548bacb9091f38175641ea6ba6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeresources/jeresources.cfg",
+      "hash": "8044bdfad93c890b88c78a3dbcc5e83af167f3e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/journeymap_ModInfo.cfg",
+      "hash": "64c6c91e4055a0983e050af450e625d0e9181ac8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/journeymap_server.cfg",
+      "hash": "a77f42cc8247068729d0d8ed4a4e269c86dbd2ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/JustEnoughCalculation/main.cfg",
+      "hash": "9b4de7b784f32648d05e1448f06cbd6f50d8ce9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/JustEnoughCalculation/record.json",
+      "hash": "5e046409182c894ffc7c607cb37303d5bbc2eae9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/kleeslabs.cfg",
+      "hash": "18235b536d0b8fb241a943fe532e8ffcd4e887eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/laser_drill_ores/default_ores.json",
+      "hash": "a6a659d4d119ab55bdc7eefc9a23bc5c950bdf58",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lazy_ae2.cfg",
+      "hash": "ccc5e159dbb18a53dd4d77453f7c8c8e0b58d9f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/librarianlib.cfg",
+      "hash": "cec584a36f862c632e5ff78f39f75c783914ded5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/libvulpes.cfg",
+      "hash": "4fc635185f7c74630aa62657e062e4ff237ead09",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lootcapacitortooltips.cfg",
+      "hash": "c7dcf7e0a238c3dc501721abc6a57b5377513060",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lootr.cfg",
+      "hash": "a9dae93a2141eca49e334d44eb53044637586024",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/loottweaker.cfg",
+      "hash": "7b3de4cc04f916597c3457957df0577e81c8638b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lumberjack.cfg",
+      "hash": "3a3c21241617d6fa53c3c520e38dba56099fc58d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mctsmelteryio.cfg",
+      "hash": "9baf2cd22fbafd83a110863be071a4ebb1891937",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mechtech.cfg",
+      "hash": "3dac30bc0bc4a9f120cea42498ddde21b99f44ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mekanism/BoxBlacklist.txt",
+      "hash": "e47207974665cbe0998cc8c115f067f83dce0a5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mekanism.cfg",
+      "hash": "395c7caad702153265413c14904a4f8564e233a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/morefurnaces.cfg",
+      "hash": "4c993881fe367b339b2c0bddc21d642e2ca70a79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/moreplates.cfg",
+      "hash": "a6346c5d79db5c46927af4a24e5513e51d5b6971",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/morphtool.cfg",
+      "hash": "fc0ccb6dd09e52d820e9b1333995700b2acbd4b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mousetweaks.cfg",
+      "hash": "74c98064a9c9b40d8105894edaa5595574d93edb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiblocked.cfg",
+      "hash": "0bc6220d282d43f6adcb169d6f476d18e3de3dd7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/mysticalmechanics.cfg",
+      "hash": "3f2643514f17d202c01e314bb2b5bbedaf74fe5b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/naturesaura.cfg",
+      "hash": "778f2ec896b90cbc53aa7be21464272468e7fbce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/naturescompass.cfg",
+      "hash": "dcb8e6a033811373ca5f20f46815b8411da62b72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NCRadMetabolosis.cfg",
+      "hash": "cd4ff27b77b69ed6809c970182b9f236cc9c2e40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NotEnoughEnergistics.cfg",
+      "hash": "e470133ca50112e5a7c314b2926854fe7e641516",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/nuclearcraft.cfg",
+      "hash": "747b3882f70086e2b0529b861e0f38bde4901014",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openglider.cfg",
+      "hash": "1fdca52262f2667600ac374a56ec15c86b0f5465",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/p455w0rdsLib.cfg",
+      "hash": "c76830e8acfcb88af4e13c73ff4952e8ae17a618",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/packagedauto.cfg",
+      "hash": "cf4bb2b6795365252aa78fc65280e61416cb16bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/packagedexcrafting.cfg",
+      "hash": "d66e5d44bca610f0a547ab31eb15c36db9def420",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/packingtape.cfg",
+      "hash": "a9268187af7042c870896fa1b827ed7ca2909382",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/patchouli.cfg",
+      "hash": "98ffc513bcb4a5307cab85254b9b58648037be55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/pewter/pewter.cfg",
+      "hash": "693944c932082b1b81a8ccd56fe2f7cfe61a9da0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/pewter/_example.json",
+      "hash": "8eeb9bc43ddee91f0e41979ce501f05e312c01ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/plustic.cfg",
+      "hash": "02e892b2bc91a2c3d65fa3e2e0f1f76276ac5852",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/pouchofunknown.cfg",
+      "hash": "8ee097a6e5c13d93a349fcd974abb7dcedb740bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/prefab.cfg",
+      "hash": "7bce52a01cebe6f19b25489412d8f891ded1c409",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/randompatches.cfg",
+      "hash": "7773e2898114bb076fe1b0b02eb5632913b369f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/randomtweaker.cfg",
+      "hash": "e3f4cd1c64e7d80ff81c1708f43d835126cd5c6d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/recipestages.cfg",
+      "hash": "fb09fa21844d2832e7742dc36125513b56bdf47a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/satako.cfg",
+      "hash": "7980e839fad2bc87dc6a2045722a5c35ec5b8613",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/scalinghealth/main.cfg",
+      "hash": "9a3df73a15d6d4898351774ca8aaa83ea16d7687",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/scannable.cfg",
+      "hash": "3e9af3f5bf286056a34128fdf139834c41ede9ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sereneseasons/biome_info.json",
+      "hash": "f373399017c2c2c4420859e771222e3304374e06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sereneseasons/cropfertility.cfg",
+      "hash": "9909e42e671a2c0680cb3fe48c7d2d646446ec16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sereneseasons/seasons.cfg",
+      "hash": "ffffe97a798ceb3fa59db212c7b463f91d74ab85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/shadowfacts/ShadowMC.cfg",
+      "hash": "aa5b1cf38f61505d5297947636a1422b3b615a37",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/simplesmelteryaccelerator.cfg",
+      "hash": "aa2acdb748b22f7a03bf019577aabb9281fa8aad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/simplyjetpacks/client.cfg",
+      "hash": "900085c1e406aea94cdf9dad41301475fce4b7f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/simplyjetpacks/common.cfg",
+      "hash": "769bc4d9131b337fb129c43ae1a005a6e0c97f0a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/smoothfont/smoothfont.cfg",
+      "hash": "94cb6fbcc71a30fa916a7ce06d754f1bcac3e5ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/snad.cfg",
+      "hash": "b5f05d3b09cfff843cc21e279509e8eba3e71fdc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/compats.hlc",
+      "hash": "395623631305d60fcb232970cf5b5559485302eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/custom_panels.js",
+      "hash": "402d5ae5ea750d63e865ee54c28110a36daa67fc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/main.hlc",
+      "hash": "138a5aee555cb2d17caf293c02abc2b66d77a5a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/panels.hlc",
+      "hash": "32cff6954d91328a0e628c0332b650c1d2977a3b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/textures/example_base.png",
+      "hash": "4253410bb179c1e213f766d5a5bdd59ba577dbf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solarflux/textures/example_top.png",
+      "hash": "6ab5811e071c15559234ec0b9d961a10bf4fc7ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/solcarrot.cfg",
+      "hash": "f47d08ca3b32b215dcf3f8f85b49b81497463500",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/soot.cfg",
+      "hash": "958629d9183d5b21b2afeb8bd27e5ace36139cae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "ff7df69a49f5711882dca816db7c8e698ef67345",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/storagedrawers.cfg",
+      "hash": "3ba9cceb9f8035bc75a68a75f11a0d0634b1adb8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/survivalist.cfg",
+      "hash": "0ece3669ff170a08c93b3813cc6454a373991ba7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/TAIGA.cfg",
+      "hash": "971da6edcf041f0d7ce7c49f7039c9428c493418",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tcomplement.cfg",
+      "hash": "c69b37c4a99ed0f5a46f19d74767d72d62a7121d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/TComplementModules.cfg",
+      "hash": "be7f5bddc445771f9375fffac6284c897d61b7e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/.config_version",
+      "hash": "d583c3aa489ed954df3be71e71deae3a9895857e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/agneyastra.json",
+      "hash": "f0dc81bb5a18b87da468c0cfbffed30b48d04942",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/ancient_arrow.json",
+      "hash": "4632ea0ca06df041e174f0a5b19997bbfe59bc66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/crystal_sceptre.json",
+      "hash": "23e4b7b93101489df862b26abafe7f7942155578",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/dragon_tooth.json",
+      "hash": "5666280ba298c274c7a7b0710d78d48bf19acd55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/guardian_angel.json",
+      "hash": "0a8b57c9c0206057e71f34c5730b42d73fc4962e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/infinity_edge.json",
+      "hash": "26926809432c8793d53cc199ed2405a6f5d7010c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/light_shoes.json",
+      "hash": "aad164d7bab86380fc3e38fa65e81670448d468d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/maelstrom.json",
+      "hash": "c406a382b94f042c0ed0ff42cc2aef94a0971168",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/morning_star.json",
+      "hash": "a476b7421baff6a664e6dcd97c13171d168ca4a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/ms_erudita.json",
+      "hash": "fd4930a17a4e279fa621a14da98c10b0479996b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/myriad_slashes.json",
+      "hash": "1ee0c4c3f11bc47b172c9dc5b12d9971f1afea95",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/phase_boots.json",
+      "hash": "cb0394e57031941a74546bfa80d31320a82d661a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/stormbow.json",
+      "hash": "23a39539efb93252ddbbf5c267447e91cd9faaac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo/artifacts/werebane.json",
+      "hash": "bd5de4a2a3956edc61e7ccae0f56cf473ad45bbd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconevo.cfg",
+      "hash": "9b1c1062d3d7357ade8a35b76055af793b417c97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tconstruct.cfg",
+      "hash": "58e2df064ffd4a727dd8d79eec76b1e35fc469ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/TelePastries.cfg",
+      "hash": "af539b074039c3375799e991aeba0de422d48cd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/teslacorelib.cfg",
+      "hash": "2d826d4458e297250c2fec1c253eebc358da7906",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumadditions.cfg",
+      "hash": "2f38098aee5e48393267b4abfc412f4768b90b7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumcraft_graphics.cfg",
+      "hash": "bec564a624949a0db2924f2369b816f51a916daa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumcraft_misc.cfg",
+      "hash": "a122e252a100a4e0381e7d2d1a11d12123991b85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumcraft_world.cfg",
+      "hash": "0f7d6db33bd067cd404b74a8f64b07d5838c3a7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/Thaumic Bases.cfg",
+      "hash": "be7b5c9768d0a4d8cfa037a3daf8ce95aed5cb50",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumicenergistics.cfg",
+      "hash": "b2876e0fd23281a2964818138e0ad6665cd5b7c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumicjei.cfg",
+      "hash": "03f415ba1706913445c4991d4ae65991ec625c99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumicjei_itemstack_aspects.json",
+      "hash": "9ebc23f0a0970ae271c39cb75eaa823ee517551e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thaumic_calculator.cfg",
+      "hash": "6f6a0d82f7b15fef98fde869b633b9fb92c38906",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thebetweenlands/config.cfg",
+      "hash": "aee11bfef6e52eadc12bae30b4c4d575f65195c7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/thebetweenlands/config_version",
+      "hash": "91e95be6b6634e3c21072dfcd661146728694326",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/TinkerModules.cfg",
+      "hash": "d65702bc60dcf651de375d2efd15e05028a6e8be",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tinkersoredictcache.cfg",
+      "hash": "69e2582bd0fe84200b237dd2f83c83788882d132",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tinkertoolcasts.cfg",
+      "hash": "7c5611351e254428016ce187962753aed2a8b1cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tinker_ore_dict_melting_cache.dat",
+      "hash": "18495ce12d9d29a5ed8a5d072eaf8407f69b829e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tips.cfg",
+      "hash": "e4949f9f3f4f6a0d7af0f8944859ca469de5631b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tmemes.cfg",
+      "hash": "cc16d36d8eafa87552e8ad5fe290d9fb5137ae40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tombstone.cfg",
+      "hash": "56252189e43b3f46f0117e9f2900ba983bc83386",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toolbelt.cfg",
+      "hash": "70dfe284feb1052f13bcd346707f188861e789ca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tool_progression/block_overwrites.cfg",
+      "hash": "8bddcb345d6a6c4216e5eda827c66fa640112f2b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tool_progression/general.cfg",
+      "hash": "8202c7683e926ececc151ab68c2e1780ffdabf1f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tool_progression/materials_overwrites.cfg",
+      "hash": "116683feac92e14f5e0f6f116e41eb0a53a661b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tool_progression/mining_level_names.cfg",
+      "hash": "f222777ee0b5915d4f911b15f99fc64a0f62cbb6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tool_progression/tool_overwrites.cfg",
+      "hash": "df21212c7420f4d39a2e5d867b897f0be52ec693",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/torchmaster.cfg",
+      "hash": "542d963220534f8fdf1694b0bdfedcdc51f50e42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/totaltinkers.cfg",
+      "hash": "a09712a51dcdbe0f89a163f90066d1fa3588ad6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/armor_temp_modifiers.json",
+      "hash": "4adc3dd4c655868ba3468d61e9f1c9a6a533f3bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/block_temperature.json",
+      "hash": "5f867fe45fc5e31112b89ff1e18321b2a625c1dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/drink_stats.json",
+      "hash": "cfae520a80f5f40dea3a930b0a242f11e638a4b2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/gameplay.cfg",
+      "hash": "aa79e936532d1f4f44ab97b877a5c6af67d2ec51",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/material_temperature.json",
+      "hash": "8f53dccc25d2f14f2112a12d53e49eb12cd86116",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/toughasnails/temperature.cfg",
+      "hash": "4cc45b7147e0b1098714b70b3f2674eb352f6283",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ToughExpansion.cfg",
+      "hash": "8b09317943860e0c7e4e0ef34d1eefb6e30a6e3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/TouhouLittleMaid.cfg",
+      "hash": "47db77823b37244e9029ea2131e4c3f5b4963649",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/1.png",
+      "hash": "0c7b8be7d4c885fcde1d1e29c3c30428fbd2f57d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/10.png",
+      "hash": "29df2ebd9df20ddccac5c0ad01b2ebf77e8b2bc1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/11.png",
+      "hash": "bd8585b6a98ba07ae0d827573af23df833833f8b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/12.png",
+      "hash": "730563709126a20c83ed015ddd1539a4ae49ec85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/13.png",
+      "hash": "eff163cd534d5e8526f3c437cad064a38e9d1b57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/14.png",
+      "hash": "741f903fa34021d39ddd63000ae78399f9922bbf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/15.png",
+      "hash": "c36eeb3198b022dc958b74e5c7633e0a46359b64",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/16.png",
+      "hash": "c8b286d27ca87e18a0fcd45decce7b6a12a75208",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/17.png",
+      "hash": "fd2c322d9bddac2450d3fb8d73c266ebc337ab7b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/18.png",
+      "hash": "8dd1c38b81d016c041ae8d84c6af84d8b0312dcf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/19.png",
+      "hash": "9b95382e09daef3b58e25429b8fe384857756240",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/2.png",
+      "hash": "dd5197c7f0ab98e6a90bba540604728d533fbae1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/20.png",
+      "hash": "cbda453df9f5a7edd43e97dccf2d30be7ade2c05",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/3.png",
+      "hash": "88f75e5fb7ce765c73f150d2fea6cee06deb71f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/4.png",
+      "hash": "c41778f60b9959958625d6021a35b4cb4f5d71bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/5.png",
+      "hash": "6166ee8908d83f76c78ffe46c20e55a6832cce48",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/6.png",
+      "hash": "e64f718db1d70e7c2cf0d33c868f3b93080dccd2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/7.png",
+      "hash": "8093e19f0d5807fb4f17be6f7a14a400d8171479",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/8.png",
+      "hash": "5c3374f3892876164e86eca43a0c1b9ee72a0dd5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/touhou_little_maid/hata_texture/9.png",
+      "hash": "17f566b9b48cf99d004d8aeb465a2743ccbf6737",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tweakersconstruct.cfg",
+      "hash": "e0fb15c728631c6899a4f714161c02234d564f03",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/twilightforest.cfg",
+      "hash": "5e8bbbe66c5809012f1663ed5b05b0051fb0cdc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/valkyrielib/main.cfg",
+      "hash": "91505c167736c31a4d64dd8d42e59c6a956feb36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/Waystones.cfg",
+      "hash": "295f0160b171b6be09ba707ed47faaf4fbc93359",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/whoosh/client.cfg",
+      "hash": "38569a29784a171a7622623b75889e07ff671fac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/whoosh/common.cfg",
+      "hash": "4e587b1e2173be162b7abc30ae69f1a5209236de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xreliquary.cfg",
+      "hash": "3085dbfb5562e326503a56006406fdf5bd9009f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yoyos.cfg",
+      "hash": "bfb6bcec5227ab29a9b2446c50a8c370c2599478",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "ExtraBotanyVars.dat",
+      "hash": "a395799d1db282b2969d9938be71c9fdf761e30a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "hash": "9b8316b9c14edfbbdcaea1b66eb4a6c3c0f31989",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/client/ftblib.cfg",
+      "hash": "9b6f050ee31d370810c102827855c1862f936234",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/client/ftbutilities.cfg",
+      "hash": "bcf52d33468bd9523b776d617b06c356ffc87fd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/client/sidebar_buttons.json",
+      "hash": "ed291bd9f5ef6f453631ca251308d18897de7ad9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/ftbutilities/players.txt",
+      "hash": "2715a71b89e46430bc7f1c7e191dfb810c0a7de1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/ftbutilities/ranks.txt",
+      "hash": "13c153fca9edf7a3db40a099fc47e00dc115fbba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Package.BakaCoreInfo",
+      "hash": "4d86aa13826c5d86f9e77bb88e6e81e5913bf187",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "b25365d1c7629d189c37695f533f614975a7f42f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
+      "hash": "fdf86f1ae7d942aac6222470c585e2cecc69bca0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/contenttweaker/lang/en_us.lang",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/mekatweaker/blockstates/fluids.json",
+      "hash": "4205f7517f5db28fb09498febbead323c06f5b08",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/mekatweaker/lang/en_us.lang",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/pack.mcmeta",
+      "hash": "85a3744c6c3e0e2a84b482fc54794b7f5acc815a",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 0,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
