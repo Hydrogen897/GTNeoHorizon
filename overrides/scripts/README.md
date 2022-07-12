@@ -1,3 +1,7 @@
+You can use everyone scripts.But mustn't Ctrl+C and Ctrl+V.
+
+Use the scripts,Please add Anthor's name.
+
 The Script from the CraftTweaker and some Tweaker mod.
 
 The Priority:
