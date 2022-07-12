@@ -1,15 +1,15 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "gtneohorizon",
+  "name": "GTNeoHorizon",
   "version": "1.0",
-  "author": "Little_Yuan_Wei,lengshan2333",
+  "author": "Little_Yuan_Wei,Hydrogen897",
   "overrides": "overrides",
   "minecraft": {
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2860",
+        "id": "forge-14.23.5.2859",
         "primary": true
       }
     ]
