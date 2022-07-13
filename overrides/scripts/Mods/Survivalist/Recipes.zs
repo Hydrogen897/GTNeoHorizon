@@ -26,7 +26,7 @@ for i, ch in chs {
     recipes.addShaped(ch, [log, log]);
 }
 
-var woodLr = <gregtech:meta_item_2:32001>
+var woodLr = <contenttweaker:long_rod_wood>
 var rack = <survivalist:rack>;
 recipes.remove(rack);
 recipes.addShaped(rack,
