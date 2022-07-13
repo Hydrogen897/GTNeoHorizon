@@ -1,4 +1,7 @@
 #priority 39999
 
+//Recipes remove.
 recipes.remove(<minecraft:stick>);
-recipes.addShapeless(<minecraft:stick>, [<ore:craftingToolFile>, <ore:plankWood>]);
+
+//Recipes add.
+recipes.addShapeless(<minecraft:stick>, [File, <ore:plankWood>]);
