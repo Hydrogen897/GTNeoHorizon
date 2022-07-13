@@ -44,9 +44,20 @@ import mods.recipe.RecipeMap;
 	<gregtech:meta_tool:12>.withEmptyTag()
 ]);
 
-<ore:gtceknife>.addItems([
+<ore:gtceKnife>.addItems([
 	<gregtech:meta_tool:15>.withEmptyTag()
 ]);
+
+global Knife = <ore:gtceknife>;
+global Saw = <ore:gtceSaws>;
+global WireCutter = <ore:gtceWireCutters>;
+global Mortar = <ore:gtceMortars>;
+global Screwdriver = <ore:gtceScrewdrivers>;
+global Crowbar = <ore:craftingToolCrowbar>;
+global Wrenche = <ore:gtceWrenches>;
+global SoftHammer = <ore:gtceSoftHammers>;
+global Hammer = <ore:gtceHardHammers>;
+global File = <ore:gtceFiles>;
 
 //Recipe Map,By the TechLord22
 
