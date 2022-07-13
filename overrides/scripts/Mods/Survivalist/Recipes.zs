@@ -2,7 +2,7 @@
 
 import mods.crafttweaker.item.IItemStack;
 
-var cb = "_chopping_block"
+var cb = "_chopping_block";
 
 var chs as IItemStack[] = [
     itemUtils.getItem("oak" ~ cb)
@@ -26,6 +26,13 @@ for i, ch in chs {
     recipes.addShaped(ch, [log, log]);
 }
 
+var woodLr = <gregtech:meta_item_2:32001>
+var rack = <survivalist:rack>;
+recipes.remove(rack);
+recipes.addShaped(rack,
+ [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+ [null, woodLr, null],
+ [woodLr, null, woodLr]]);
 
     
     
